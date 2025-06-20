@@ -12,4 +12,4 @@ A Python-based speech analysis tool for real-time formant extraction and visuali
 ## 使用方法
 ```bash
 pip install -r requirements.txt
-python 1.py
+python Extraction.py
